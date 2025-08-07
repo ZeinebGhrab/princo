@@ -1,0 +1,9 @@
+export const emptyField : string =  'Veuillez remplir tous les champs!';
+export const validUrl: string = 'Veuillez saisir une URL valide!';
+export const validEmail: string = 'Veuillez saisir un e-mail valide!';
+export const existName: string = 'Veuillez saisir votre nom, votre prénom et votre adresse e-mail';
+export const validLogin: string = "Veuillez saisir une adresse e-mail et un mot de passe valides.";
+export const confirmPassword: string = "Le mot de passe et la confirmation de mot de passe doivent être identiques.";
+export const validPassword: string = "Minimum 8 caractères."
+export const confirm: string = "Veuillez confirmer les conditions d'utilisation";
+export const errorNetwork: string = "Erreur de connexion: Veuillez vérifier votre connexion internet.";
